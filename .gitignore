@@ -3,4 +3,4 @@
 *.json
 
 folo/
-*gol.txt
+./gol.txt
