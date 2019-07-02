@@ -1,6 +1,7 @@
 *.pyc
 
 *.json
+/.idea
 
 folo/
 /gol.txt
